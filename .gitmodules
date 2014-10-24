@@ -1,3 +1,6 @@
 [submodule "cdi"]
 	path = cdi-seminar
 	url = git@github.com:HEm3R/a4m36jee-2014-cdi-seminar.git
+[submodule "web"]
+	path = web-seminar
+	url = git@github.com:HEm3R/a4m36jee-2014-web-seminar.git

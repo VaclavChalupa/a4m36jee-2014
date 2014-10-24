@@ -10,5 +10,6 @@
 
     <modules>
         <module>cdi-seminar</module>
+        <module>web-seminar</module>
     </modules>
 </project>
